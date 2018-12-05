@@ -21,4 +21,4 @@ For example to push each line from the file `data.txt` to a set with the `ids` v
 
 # Isn't that beautiful?
 
-[![Example](https://s2.gifyu.com/images/ezgif.com-video-to-gif6d7227195d5544e3.gif)](https://gifyu.com/image/TJIv)
+![Example](https://media.giphy.com/media/7zuMe0bNOHgRAd9Tw4/giphy.gif)
